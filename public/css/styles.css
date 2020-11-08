@@ -1,0 +1,15 @@
+body{
+    background-image: url(https://i.imgur.com/MdJ6jb1.jpg);
+    background-size: cover;
+}
+.main-div{
+    margin: 11em 450px;
+}
+#cityInputs{
+    font-weight: bolder;
+}
+.sec-div{
+    position: relative;
+    margin: 5em 500px;
+    font-weight: 800;
+}
